@@ -9,7 +9,7 @@ import crown from "../../img/crown.png";
 import FloatinDiv from "../FloatingDiv/FloatingDiv";
 import facebook from "../../img/splashFbbg.png";
 import ytb from "../../img/yts.png";
-import Insta from "../../img/insta.jpg";
+// import Insta from "../../img/insta.jpg";
 import { themeContext } from "../../Context";
 import { motion } from "framer-motion";
 import { Link } from "react-scroll";
